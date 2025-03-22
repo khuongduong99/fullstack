@@ -18,11 +18,15 @@
     "bcrypt": "^5.0.1",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.3",
-    "dotenv": "^8.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.6.0",
     "ejs": "^3.1.10",
     "express": "^4.21.2",
+    "lodash": "^4.17.21",
     "mysql2": "^2.2.5",
-    "sequelize": "^6.6.2"
+    "nodemailer": "6.6.3",
+    "sequelize": "^6.6.2",
+    "uuid": "8.3.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
